@@ -1,0 +1,15 @@
+(;CA[gb2312]AP[MultiGo:4.4.4]MULTIGOGM[1]
+;B[pd];W[dd];B[pq];W[dp];B[nc];W[qo];B[np];W[re]
+(;B[rd]C[黑不是太好];W[pk];B[qi]C[不好，白棋二五有效防止打入];W[qd];B[qe];W[qc]
+;B[rc];W[pe];B[qf];W[pc];B[od];W[rf];B[rb];W[qg];B[pf];W[ph];B[of];W[pi]C[白优])
+(;B[qd]C[正确应对]
+(;W[pk];B[qi]C[白没什么便宜的])
+(;W[qi]MA[ql]C[正手]
+(;B[ql]C[黑不好];W[qf]C[棋型要点，黑棋角上没什么目])
+(;B[qh]
+(;W[ph]C[常见];B[qg];W[pi]TR[qf]C[常见定型
+以后若白棋外面很厚，有尖的强手];B[fq]
+;W[md];B[lb];W[pf];B[qf];W[qe];B[pe];W[pg];B[rf];W[rd];B[rc];W[nd];B[od];W[mc];B[mb]
+;W[oc];B[nb];W[oe]C[场合下法])
+(;W[rh];B[rg];W[qg];B[ph]C[白不好])
+(;W[pi];B[ph];W[oh];B[ri];W[rj];B[rh];W[oi];B[og];W[ng];B[of]C[黑好])))))
