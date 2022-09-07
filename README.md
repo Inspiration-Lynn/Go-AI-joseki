@@ -52,8 +52,20 @@
 
 ![image-20220729152512067](README.assets/image-20220729152512067.png)
 
+###### #白布局2
+
+> 5.14.mp4
+
+![image-20220809135800866](README.assets/image-20220809135800866.png)
+
 ## 星位
 
 ###### #飞点型1
 
 ![image-20220804114346252](README.assets/image-20220804114346252.png)
+
+## 小雪崩
+
+> 9.3.mp4
+
+![image-20220907190348485](C:\Users\11354\AppData\Roaming\Typora\typora-user-images\image-20220907190348485.png)
