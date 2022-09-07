@@ -10,6 +10,8 @@
 
 ![image-20220729102654623](README.assets/image-20220729102654623.png)
 
+
+
 ###### #二间低夹反制型2
 
 反制对方二间低夹
@@ -18,11 +20,15 @@
 
 ![image-20220729104900287](README.assets/image-20220729104900287.png)
 
+
+
 ###### #二间低夹变招型3
 
 > 3.12.mp4
 
 ![image-20220729150915049](README.assets/image-20220729150915049.png)
+
+
 
 ## 黑布局
 
@@ -32,17 +38,23 @@
 
 ![image-20220807113200716](README.assets/image-20220807113200716.png)
 
+
+
 ###### #黑布局1-反制
 
 > 2.12.mp4
 
 ![image-20220804114152367](README.assets/image-20220804114152367.png)
 
+
+
 ###### #黑布局2-反制
 
 > 7.22.mp4
 
 ![image-20220809104529683](README.assets/image-20220809104529683.png)
+
+
 
 ## 白布局
 
@@ -68,4 +80,4 @@
 
 > 9.3.mp4
 
-![image-20220907190348485](C:\Users\11354\AppData\Roaming\Typora\typora-user-images\image-20220907190348485.png)
+![image-20220907190639517](README.assets/image-20220907190639517.png)
